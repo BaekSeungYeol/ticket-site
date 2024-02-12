@@ -1,0 +1,8 @@
+spring:
+  data:
+    redis:
+      host: localhost
+      port: 63790
+
+scheduler:
+  enabled: false
