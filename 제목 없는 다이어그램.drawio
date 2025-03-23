@@ -1,9 +1,239 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="페이지-1" id="EkpmxL6pJPjq01BM3WGQ">
-    <mxGraphModel>
+    <mxGraphModel dx="801" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-1" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;User&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-2" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;User&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTls6VQtFvJP3Kv6aFrP-2" target="fTls6VQtFvJP3Kv6aFrP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="400" as="sourcePoint" />
+            <mxPoint x="360" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-4" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;NotificationRegister&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Service&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-5" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;NotificationRegister&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Service&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="450" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTls6VQtFvJP3Kv6aFrP-5" target="fTls6VQtFvJP3Kv6aFrP-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="400" as="sourcePoint" />
+            <mxPoint x="450" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-7" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;NotificationRegister&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;UseCase&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-8" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;NotificationRegister&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;UseCase&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="450" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTls6VQtFvJP3Kv6aFrP-8" target="fTls6VQtFvJP3Kv6aFrP-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="400" as="sourcePoint" />
+            <mxPoint x="540" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-10" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;NotificationEvent&lt;br&gt;Port&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-11" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;NotificationEvent&lt;/span&gt;&lt;br style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;Port&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="450" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTls6VQtFvJP3Kv6aFrP-11" target="fTls6VQtFvJP3Kv6aFrP-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="400" as="sourcePoint" />
+            <mxPoint x="630" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-13" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Database&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-14" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Database&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="450" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTls6VQtFvJP3Kv6aFrP-14" target="fTls6VQtFvJP3Kv6aFrP-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="400" as="sourcePoint" />
+            <mxPoint x="720" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-16" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;NotificationEvent&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;MessageSender&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-17" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;NotificationEvent&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;MessageSender&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="450" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTls6VQtFvJP3Kv6aFrP-17" target="fTls6VQtFvJP3Kv6aFrP-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="400" as="sourcePoint" />
+            <mxPoint x="810" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-19" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;DispatchEventMessage&lt;br&gt;Port&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-20" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;DispatchEventMessage&lt;/span&gt;&lt;br style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Port&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="450" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTls6VQtFvJP3Kv6aFrP-20" target="fTls6VQtFvJP3Kv6aFrP-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="400" as="sourcePoint" />
+            <mxPoint x="900" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="290" as="sourcePoint" />
+            <mxPoint x="200" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-23" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;알람 등록 호출&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="fTls6VQtFvJP3Kv6aFrP-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-25" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;NotificationServiceQueue&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Consumer&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-26" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;NotificationServiceQueue&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Consumer&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="450" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-27" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTls6VQtFvJP3Kv6aFrP-26" target="fTls6VQtFvJP3Kv6aFrP-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="400" as="sourcePoint" />
+            <mxPoint x="990" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-28" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;NotificationStatusUpdate&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Port&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-29" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;NotificationStatusUpdate&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Port&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="450" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTls6VQtFvJP3Kv6aFrP-29" target="fTls6VQtFvJP3Kv6aFrP-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="400" as="sourcePoint" />
+            <mxPoint x="1080" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="300" as="sourcePoint" />
+            <mxPoint x="290" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-32" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;Deletegate&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="fTls6VQtFvJP3Kv6aFrP-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="320" as="sourcePoint" />
+            <mxPoint x="380" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-35" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;create&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;NotificationEvent&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="fTls6VQtFvJP3Kv6aFrP-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="sourcePoint" />
+            <mxPoint x="470" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-39" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;save to&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;NotificationEvent&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;outboxes&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;table&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="fTls6VQtFvJP3Kv6aFrP-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="475" y="360" as="sourcePoint" />
+            <mxPoint x="120" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-41" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;알람 등록 반환&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="fTls6VQtFvJP3Kv6aFrP-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="380" as="sourcePoint" />
+            <mxPoint x="560" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-43" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;이벤트 리스너 호출&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="fTls6VQtFvJP3Kv6aFrP-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="390" as="sourcePoint" />
+            <mxPoint x="650" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-45" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;메세지 queue&lt;br&gt;로 호출&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="fTls6VQtFvJP3Kv6aFrP-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="400" as="sourcePoint" />
+            <mxPoint x="740" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-47" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;service/delay&lt;br&gt;queue 로 부터의 메세지&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="fTls6VQtFvJP3Kv6aFrP-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="747" y="430" as="sourcePoint" />
+            <mxPoint x="827" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-50" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;메세지 전송 완료&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fTls6VQtFvJP3Kv6aFrP-48">
+          <mxGeometry x="-0.0011" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="440" as="sourcePoint" />
+            <mxPoint x="480" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-53" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;알람 상태 업데이트&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="fTls6VQtFvJP3Kv6aFrP-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-55" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;알람 발송 서버&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-56" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;알람 발송 서버&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="450" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-57" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTls6VQtFvJP3Kv6aFrP-56" target="fTls6VQtFvJP3Kv6aFrP-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="400" as="sourcePoint" />
+            <mxPoint x="1170" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-60" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="410" as="sourcePoint" />
+            <mxPoint x="920" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-61" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;발송 서버 호출&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="fTls6VQtFvJP3Kv6aFrP-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-66" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="420" as="sourcePoint" />
+            <mxPoint x="750" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTls6VQtFvJP3Kv6aFrP-67" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;resultCode&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="fTls6VQtFvJP3Kv6aFrP-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
